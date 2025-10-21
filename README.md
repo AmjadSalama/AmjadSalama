@@ -1,50 +1,27 @@
-# 👋 Hi, I'm Ahmed Salama
+<h1 align="center">Hi 👋, I'm Amjad Salama</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
-🎓 Electrical & Electronics Engineering Student at Bahçeşehir University  
-💼 Founder of [Glass Solutions](https://glasssolutions.sa) — Integrated Solutions for Automatic Doors  
-⚙️ Building automation systems, embedded devices, and smart software tools.  
-📍 Based in Istanbul | 🇸🇦–🇹🇷
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadsalama&label=Profile%20views&color=0e75b6&style=flat" alt="amjadsalama" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amjadsalama" alt="amjadsalama" /></a> </p>
 
-## 🚀 Current Projects
+- I’m currently working on **Teknofest Project**
 
-### 🧠 FPGA & Embedded Systems
-- **Introduction to FPGA Design** — Verilog HDL & Vivado-based digital systems  
-- **Smart RC Car** — ESP32-controlled Li-Po powered RC car with camera, headlights, and DC motor drivers  
+- All of my projects are available at [www.amjadsalama.com](www.amjadsalama.com)
 
-### 💻 Software Engineering
-- **GS Installation Completion** — JavaFX + MySQL app to manage automatic door installations  
-- **GS Financial** — JavaFX financial management tool with charts, filters, and multi-bank tracking  
-- **THEASROS IMS** — Inventory Management System using JavaFX (Queue-based product handling)
+- 📫 How to reach me **amjad.maher76@gmail.com**
 
----
+- 📄 Know about my experiences [www.amjadsalama.com/resume](www.amjadsalama.com/resume)
 
-## ⚡ Tech Stack
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amjadsalama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amjadsalama" height="30" width="40" /></a>
+<a href="https://discord.gg/ams6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ams6" height="30" width="40" /></a>
+</p>
 
-**Languages:** Java, VHDL/Verilog, C#, C, SQL, HTML/CSS/JS  
-**Frameworks & Tools:** JavaFX, Vivado, MySQL, Proteus, TINA-TI, AutoCAD, Cinema4D  
-**Other Skills:** Circuit Simulation, PLC, 3D Modeling, UI/UX Design
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amjadsalama&show_icons=true&locale=en&layout=compact" alt="amjadsalama" /></p>
 
-## 🏆 Highlights
-
-- 👷‍♂️ Supervised electrical installations for automatic door systems  
-- 🧩 Developed bilingual websites with full RTL & i18n support  
-- 🔋 Designed DC motor control systems using Arduino + BTS7960B drivers  
-- 📊 Created custom UI dashboards with real-time data visualization
-
----
-
-## 🌐 Find Me Online
-
-- 🌎 [Glass Solutions Website](https://glasssolutions.sa)  
-- 💼 [LinkedIn](https://linkedin.com/in/ahmed-salama)  
-- 🧑‍💻 [GitHub](https://github.com/ahmedsalama)  
-- 📫 **ahmedsalama.dev@gmail.com**
-
----
-
-> *"Innovation begins when engineering meets design."*  
-> — Ahmed Salama
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amjadsalama&show_icons=true&locale=en" alt="amjadsalama" /></p>
