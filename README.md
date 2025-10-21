@@ -1,19 +1,25 @@
-<h1 align="center">Hi, I'm Amjad Salama</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<img src="https://raw.githubusercontent.com/aessing/aessing/main/images/banner.png" alt="Banner that says Andre Essing - Cloud Solution Architect, alongside a cartoon illustration of Andre">
 
-- I’m currently working on **Teknofest Project**
+# :wave: Hi there, I'm Andre
 
-- All of my projects are available at [www.amjadsalama.com](www.amjadsalama.com)
+Data- & Cloud Native, [Azure](https://azure.microsoft.com/) & [Azure Cosmos DB](https://azure.microsoft.com/services/cosmos-db/) Enthusiast, Community Addict and Technical Specialist for Data & AI @ [Microsoft](https://www.microsoft.com/)
 
-- How to reach me **amjad.maher76@gmail.com**
+## :superhero_man: About Me
 
-- Know about my experiences [www.amjadsalama.com/resume](www.amjadsalama.com/resume)
+In my role as Technical Specialist, I advise customers in topics all around the Microsoft Data Platform.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amjadsalama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amjadsalama" height="30" width="40" /></a>
-<a href="https://discord.gg/ams6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ams6" height="30" width="40" /></a>
-</p>
+Since version 7.0 I am gathering experience with the SQL Server product family, where I had a focus on infrastructure topics, mission-critical systems and security. Today I concentrate on working with data in the cloud, like Modern Data Warehouse architectures and Microsoft Fabric, Artificial Intelligence and new scalable database systems like Azure Cosmos DB.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+In my spare time I am speaking at user groups and at international conferences, teaching about cloud data services and how to use them in the best possible manner. Also, I am working on different small community and open-source projects.
+
+## :compass: Find me on the web
+
+If you have a question, or you just want to contact me, you can find and follow me on:
+
+[<img alt="Link to the GitHub profile of Andre" src="https://img.shields.io/static/v1?label=GitHub&message=Follow%20me&labelColor=181717&logoColor=ffffff&style=for-the-badge&logo=GitHub" />](https://github.com/aessing) 
+[<img alt="Link to the LinkedIn profile of Andre" src="https://img.shields.io/static/v1?label=LinkedIn&message=Follow%20me&labelColor=0077B5&logoColor=ffffff&style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/aessing/) 
+[<img alt="Link to Andres employer" src="https://img.shields.io/static/v1?label=Microsoft&message=Visit%20us&labelColor=666666&logoColor=ffffff&style=for-the-badge&logo=microsoft" />](https://www.microsoft.com/) 
+
+## :man_judge: Disclaimer
+
+THE CONTENT OF THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CONTENT OF THIS REPOSITORY OR THE USE OR OTHER DEALINGS BY CONTENT OF THIS REPOSITORY.
