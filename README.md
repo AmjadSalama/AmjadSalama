@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AmjadSalama/AmjadSalama/main/images/banner.png" alt="Banner that says Amjad Salama - Full Stack Developer">
+<img src="banner.png" alt="Banner that says Amjad Salama - Full Stack Developer">
 
 # 👋 Hi there, I'm Amjad Salama
 
